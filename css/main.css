@@ -1,0 +1,79 @@
+.correct{
+  color: #02ff02;
+  font-size: 20px;
+}
+.incorrect{
+  color:red;
+  font-size: 20px;
+
+}
+.results{
+
+  margin: 0 auto;
+  margin-top: 50px;
+  font-size: 18px;
+}
+h1{
+  font-weight: bold;
+  font-size: 50px;
+  color: white
+}
+h3{
+  font-size: 35px;
+  color: white;
+}
+h4{
+  font-size: 25px;
+  color:#ffa600;
+  font-weight: bold;
+}
+
+body{
+  font-family: 'Patrick Hand SC', cursive;
+  text-align: center;
+  /*background-image: url(../img/BeFunkyPhoto.jpg);*/
+  background-image: url(../img/logo4.jpg);
+
+
+  /*background-color: #2D2D2D;*/
+  background-repeat:  no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+/*#barca{
+  height: 850px;
+  width:300px;
+  position: absolute;
+  left:0px;*/
+
+}
+input{
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: bold;
+
+}
+button{
+  border: none;
+  border-radius: 5px;
+  color: black;
+  font-weight: bold;
+  background-color: #C9AB6D;
+}
+img{
+  height: 350px;
+  width:350px;
+
+  border-radius: 5px;
+}
+h2{
+  width: 250px;
+  margin: 0 auto;
+  color:gold;
+  font-size: 40px;
+}
+#goAgain{
+  margin: auto;
+  margin-top: 25px;
+
+}
